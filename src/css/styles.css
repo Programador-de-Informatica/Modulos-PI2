@@ -10785,30 +10785,3 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
-
-/* Estilos para os botões */
-.containerr {
-  text-align: center; /* Centraliza os elementos */
-}
-
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  border-radius: 100px; /* Borda arredondada */
-  background-color: #3498db; /* Cor de fundo azul claro */
-  color: #fff; /* Cor do texto */
-  text-decoration: none;
-  margin: 10px; /* Espaçamento entre os botões */
-  border: none; /* Remove a borda padrão */
-}
-
-/* Estilo quando passa o mouse */
-.button:hover {
-  background-color: #2980b9; /* Cor de fundo mais escura ao passar o mouse */
-}
-
-/* Estilo para o link dentro do botão */
-.button a {
-  color: #fff; /* Cor do texto */
-  text-decoration: none; /* Remove sublinhado do link */
-}
